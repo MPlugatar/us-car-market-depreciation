@@ -47,8 +47,8 @@ To calculate the 5-year depreciation drop, I used Common Table Expressions (CTEs
 To ensure the observed 9% difference in depreciation isn't due to the disparity in sample sizes (~30,000 ICE vehicles vs ~400 EVs), a Welch's T-test was conducted. 
 
 **Files used for this iteration:**
-* [`v2_extract_for_ab_test.sql`](v2_extract_for_ab_test.sql) - Query to extract raw, unaggregated data for 2018 vehicles.
-* [`stats_analysis.py`](stats_analysis.py) - Python script using `pandas` for filtering and `scipy.stats` for the A/B test.
+* [`v2_extract_for_ab_test.sql`](sql/02_extract_for_ab_test.sql) - Query to extract raw, unaggregated data for 2018 vehicles.
+* [`stats_analysis.py`](scripts/01_ab_test_analysis.py) - Python script using `pandas` for filtering and `scipy.stats` for the A/B test.
 
 **Results:**
 * **ICE Average Depreciation:** 34.7%
