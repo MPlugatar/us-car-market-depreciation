@@ -1,0 +1,666 @@
+"brand","model","fuel_type","new_price","used_price","drop_percent"
+volvo,xc90 momentum,gasoline,55833.0,20981.0,62.42
+cadillac,escalade esv platinum,gasoline,126923.0,48148.0,62.07
+cadillac,escalade base,gasoline,108188.0,41539.0,61.6
+bmw,"530 530i xdrive",gasoline,62980.0,24495.0,61.11
+porsche,cayenne s,gasoline,99227.0,39381.0,60.31
+bmw,x6 m sports activity coupe,gasoline,119999.0,49995.0,58.34
+kia,forte,gasoline,35000.0,14741.0,57.88
+porsche,cayenne base (tiptronic),gasoline,85542.0,36977.0,56.77
+infiniti,qx60 base,gasoline,58984.0,25557.0,56.67
+land rover,range rover sport se,gasoline,108285.0,47994.0,55.68
+ford,transit-150 base,gasoline,71679.0,31809.0,55.62
+infiniti,q50 base,gasoline,42498.0,18997.0,55.3
+mercedes-benz,s-class 4matic,gasoline,115621.0,51718.0,55.27
+gmc,yukon xl sle,gasoline,63151.0,28736.0,54.5
+bmw,"740 i xdrive",gasoline,75912.0,34821.0,54.13
+porsche,cayenne base,gasoline,84576.0,38908.0,54.0
+cadillac,escalade esv luxury,gasoline,90689.0,41940.0,53.75
+bmw,"750 i xdrive",gasoline,90603.0,41958.0,53.69
+cadillac,escalade esv premium luxury,gasoline,102062.0,47407.0,53.55
+bmw,"740 i",gasoline,75538.0,35122.0,53.5
+bmw,"530 530i",gasoline,56330.0,26327.0,53.26
+gmc,yukon xl slt,gasoline,74422.0,35055.0,52.9
+porsche,cayenne platinum edition,gasoline,84829.0,40160.0,52.66
+mitsubishi,outlander,gasoline,34426.0,16357.0,52.49
+cadillac,escalade premium luxury,gasoline,101799.0,48555.0,52.3
+bmw,"330 330i xdrive",gasoline,44997.0,21473.0,52.28
+mercedes-benz,gls 450,gasoline,84587.0,40600.0,52.0
+mercedes-benz,gls 450 base 4matic,gasoline,83044.0,39984.0,51.85
+porsche,cayenne gts,gasoline,126083.0,60735.0,51.83
+porsche,cayenne,gasoline,85032.0,40990.0,51.79
+bmw,m760 i xdrive,gasoline,124348.0,60438.0,51.4
+bmw,"750 750i xdrive",gasoline,90317.0,43995.0,51.29
+bmw,x6 m base,gasoline,114038.0,55704.0,51.15
+nissan,armada sv,gasoline,49789.0,24723.0,50.34
+nissan,armada platinum,gasoline,61770.0,30784.0,50.16
+bmw,alpina b7 xdrive,gasoline,127638.0,63729.0,50.07
+cadillac,escalade luxury,gasoline,91276.0,45602.0,50.04
+toyota,sienna xle,gasoline,58613.0,29406.0,49.83
+bmw,"540 i",gasoline,60614.0,30488.0,49.7
+mercedes-benz,cla 250,gasoline,43544.0,22000.0,49.48
+chevrolet,suburban ls,gasoline,62194.0,31438.0,49.45
+bmw,"530e xdrive iperformance",gasoline,53650.0,27281.0,49.15
+chevrolet,tahoe lt,gasoline,66429.0,33837.0,49.06
+gmc,yukon denali,gasoline,84811.0,43202.0,49.06
+porsche,cayenne turbo,gasoline,143579.0,73244.0,48.99
+chevrolet,express 2500 work van,gasoline,64199.0,32798.0,48.91
+audi,q3 premium,gasoline,36983.0,18899.0,48.9
+toyota,avalon hybrid limited,gasoline,44995.0,22999.0,48.89
+mercedes-benz,gle 350 base 4matic,gasoline,65690.0,33608.0,48.84
+volvo,v60 cross country t5,gasoline,45884.0,23538.0,48.7
+lexus,rx 350l,gasoline,56493.0,28998.0,48.67
+porsche,macan gts,gasoline,95405.0,48969.0,48.67
+jeep,grand cherokee summit,gasoline,61790.0,31860.0,48.44
+gmc,yukon xl denali,gasoline,82604.0,42672.0,48.34
+ram,promaster 1500 base,gasoline,61197.0,31613.0,48.34
+nissan,titan xd s,gasoline,52175.0,26995.0,48.26
+mercedes-benz,gle 350 base,gasoline,63266.0,32761.0,48.22
+mercedes-benz,gle 350,gasoline,65791.0,34166.0,48.07
+chevrolet,suburban lt,gasoline,66019.0,34397.0,47.9
+ford,expedition limited,gasoline,69381.0,36154.0,47.89
+lincoln,navigator l reserve,gasoline,92549.0,48226.0,47.89
+bmw,m550 i xdrive,gasoline,77291.0,40355.0,47.79
+lincoln,navigator l black label,gasoline,105153.0,54922.0,47.77
+ford,transit-250 base,gasoline,60626.0,31693.0,47.72
+bmw,"330 330i",gasoline,40997.0,21459.0,47.66
+ford,mustang,gasoline,45999.0,24084.0,47.64
+bmw,"540 i xdrive",gasoline,63574.0,33370.0,47.51
+porsche,macan s,gasoline,75923.0,39882.0,47.47
+lincoln,navigator black label,gasoline,100551.0,52934.0,47.36
+toyota,sienna limited,gasoline,59877.0,31593.0,47.24
+lincoln,navigator reserve,gasoline,91575.0,48347.0,47.21
+audi,rs 7 4.0t,gasoline,129539.0,68437.0,47.17
+audi,s5 prestige,gasoline,69447.0,36735.0,47.1
+acura,rdx,gasoline,49189.0,26059.0,47.02
+bmw,x5 m base,gasoline,103786.0,55010.0,47.0
+chevrolet,tahoe premier,gasoline,76388.0,40535.0,46.94
+bmw,"430 gran coupe i xdrive",gasoline,50867.0,27014.0,46.89
+nissan,armada sl,gasoline,50475.0,26817.0,46.87
+bmw,"530 i xdrive",gasoline,55940.0,29776.0,46.77
+ford,expedition max limited,gasoline,71230.0,37940.0,46.74
+nissan,altima 2.5 sl,gasoline,30625.0,16329.0,46.68
+gmc,yukon slt,gasoline,72374.0,38617.0,46.64
+mercedes-benz,cla 250 base,gasoline,44279.0,23658.0,46.57
+ford,transit connect xlt w/rear liftgate,gasoline,34188.0,18315.0,46.43
+bmw,"430 i",gasoline,49137.0,26340.0,46.39
+ford,expedition max platinum,gasoline,80221.0,43004.0,46.39
+land rover,discovery sport se,gasoline,46815.0,25125.0,46.33
+bmw,"530 i",gasoline,51820.0,27821.0,46.31
+toyota,highlander hybrid le,gasoline,44664.0,23995.0,46.28
+mercedes-benz,gle 350 4matic,gasoline,65110.0,35024.0,46.21
+ford,expedition max xlt,gasoline,65189.0,35258.0,45.91
+mercedes-benz,gla 250 base 4matic,gasoline,43201.0,23387.0,45.86
+toyota,sienna le,gasoline,48314.0,26193.0,45.79
+volvo,xc90 t6 inscription,gasoline,62492.0,33877.0,45.79
+land rover,range rover evoque se,gasoline,51098.0,27766.0,45.66
+audi,s4 3.0t prestige,gasoline,61991.0,33702.0,45.63
+ford,expedition platinum,gasoline,80111.0,43626.0,45.54
+mercedes-benz,cla 250 base 4matic,gasoline,44784.0,24519.0,45.25
+nissan,pathfinder sl,gasoline,41061.0,22516.0,45.16
+chevrolet,suburban premier,gasoline,70937.0,38972.0,45.06
+ford,expedition xlt,gasoline,61793.0,33951.0,45.06
+ford,f-250 xlt,gasoline,60496.0,33258.0,45.02
+jeep,grand cherokee overland,gasoline,55240.0,30422.0,44.93
+nissan,pathfinder sv,gasoline,36541.0,20175.0,44.79
+chrysler,"300 touring l",gasoline,35303.0,19495.0,44.78
+gmc,sierra 2500 base,gasoline,58271.0,32235.0,44.68
+jeep,grand cherokee trailhawk,gasoline,55204.0,30618.0,44.54
+cadillac,xt5 premium luxury,gasoline,48118.0,26698.0,44.52
+audi,s3 2.0t prestige,gasoline,56768.0,31510.0,44.49
+acura,rdx advance package,gasoline,48812.0,27104.0,44.47
+bmw,x4 m40i,gasoline,59905.0,33393.0,44.26
+mitsubishi,outlander se,gasoline,31162.0,17376.0,44.24
+porsche,macan base (pdk),gasoline,67844.0,37863.0,44.19
+porsche,macan,gasoline,68276.0,38203.0,44.05
+gmc,savana 2500 work van,gasoline,65233.0,36517.0,44.02
+audi,a3 premium,gasoline,36643.0,20545.0,43.93
+ram,promaster 3500 high roof,gasoline,56811.0,32047.0,43.59
+nissan,pathfinder platinum,gasoline,46595.0,26295.0,43.57
+kia,sorento ex,gasoline,38735.0,21875.0,43.53
+ford,edge se,gasoline,34101.0,19291.0,43.43
+toyota,rav4 se,gasoline,43946.0,24881.0,43.38
+mercedes-benz,c-class c 300,gasoline,48820.0,27652.0,43.36
+gmc,canyon base,gasoline,41259.0,23399.0,43.29
+audi,sq5 3.0t prestige,gasoline,61740.0,35135.0,43.09
+chevrolet,silverado 1500 1lt,gasoline,55619.0,31662.0,43.07
+chevrolet,silverado 2500 wt,gasoline,53018.0,30190.0,43.06
+mitsubishi,outlander sel,gasoline,33523.0,19112.0,42.99
+volvo,xc90 t6 r-design,gasoline,58994.0,33697.0,42.88
+mercedes-benz,gla 250 gla 250,gasoline,43745.0,24998.0,42.86
+mercedes-benz,c-class c 300 4matic,gasoline,49743.0,28427.0,42.85
+ford,transit-350 xl,gasoline,65000.0,37172.0,42.81
+porsche,panamera 4s,gasoline,122230.0,69992.0,42.74
+ford,f-150 king ranch,gasoline,69448.0,39777.0,42.72
+chevrolet,express 3500 work van,gasoline,48977.0,28086.0,42.65
+chevrolet,express 3500 lt,gasoline,57500.0,33015.0,42.58
+ford,explorer base,gasoline,37299.0,21442.0,42.51
+honda,pilot touring,gasoline,50740.0,29170.0,42.51
+volvo,xc90 t6 momentum,gasoline,53262.0,30627.0,42.5
+nissan,pathfinder s,gasoline,34296.0,19738.0,42.45
+subaru,forester premium,gasoline,31996.0,18417.0,42.44
+buick,enclave avenir,gasoline,53480.0,30795.0,42.42
+chevrolet,tahoe ls,gasoline,58672.0,33914.0,42.2
+kia,sportage,gasoline,34588.0,19995.0,42.19
+bmw,"430 gran coupe i",gasoline,44297.0,25612.0,42.18
+chrysler,pacifica touring l,gasoline,37852.0,21900.0,42.14
+nissan,titan platinum reserve,gasoline,59294.0,34413.0,41.96
+chrysler,pacifica touring-l,gasoline,37068.0,21548.0,41.87
+ford,f-150 xlt,gasoline,53739.0,31316.0,41.73
+lexus,es 300h base,gasoline,49250.0,28700.0,41.73
+ford,f-150 platinum,gasoline,69832.0,40719.0,41.69
+bmw,x3 m40i,gasoline,60890.0,35516.0,41.67
+tesla,model x,electric,98053.0,57373.0,41.49
+ford,f-150 lariat,gasoline,61991.0,36301.0,41.44
+ram,promaster 2500 high roof,gasoline,52087.0,30502.0,41.44
+jeep,grand cherokee limited,gasoline,45158.0,26460.0,41.41
+ford,f-150,gasoline,60880.0,35678.0,41.4
+ford,explorer platinum,gasoline,53019.0,31081.0,41.38
+toyota,rav4 hybrid le,gasoline,39451.0,23125.0,41.38
+ram,"3500 laramie mega cab 4x4 6'4' box",gasoline,80078.0,46976.0,41.34
+nissan,frontier s,gasoline,32355.0,18998.0,41.28
+land rover,range rover sport hse dynamic,gasoline,89652.0,52661.0,41.26
+volkswagen,tiguan 2.0t sel,gasoline,37618.0,22101.0,41.25
+audi,s5 3.0t prestige,gasoline,67206.0,39535.0,41.17
+jeep,grand cherokee laredo,gasoline,41170.0,24271.0,41.05
+lexus,gx 460 premium,gasoline,61332.0,36200.0,40.98
+buick,envision essence,gasoline,37201.0,21992.0,40.88
+mercedes-benz,amg c 43 base 4matic,gasoline,67180.0,39757.0,40.82
+ford,f-150 raptor,gasoline,89152.0,52819.0,40.75
+bmw,m5 base,gasoline,108803.0,64534.0,40.69
+bmw,"330 i xdrive",gasoline,43514.0,25833.0,40.63
+chevrolet,silverado 1500 high country,gasoline,64691.0,38441.0,40.58
+audi,sq5 3.0t premium plus,gasoline,56302.0,33459.0,40.57
+acura,rdx technology package,gasoline,43057.0,25595.0,40.56
+gmc,sierra 1500 denali,gasoline,71208.0,42412.0,40.44
+chevrolet,silverado 1500 base,gasoline,55747.0,33215.0,40.42
+ram,"2500 tradesman regular cab 4x4 8' box",gasoline,55380.0,32995.0,40.42
+bmw,x3 xdrive30i,gasoline,48361.0,28828.0,40.39
+ram,"1500 laramie",gasoline,54260.0,32346.0,40.39
+jeep,cherokee latitude,gasoline,31839.0,18982.0,40.38
+audi,s5 3.0t premium plus,gasoline,61214.0,36513.0,40.35
+honda,odyssey,gasoline,43582.0,25995.0,40.35
+audi,sq5 premium plus,gasoline,54495.0,32575.0,40.22
+bmw,"330 i",gasoline,41291.0,24694.0,40.2
+mercedes-benz,gla 250 base,gasoline,42152.0,25209.0,40.2
+porsche,macan base,gasoline,63349.0,37905.0,40.16
+audi,a5 2.0t premium,gasoline,47744.0,28581.0,40.14
+lexus,gx 460,gasoline,62744.0,37623.0,40.04
+nissan,murano sv,gasoline,34957.0,20984.0,39.97
+porsche,panamera,gasoline,101877.0,61161.0,39.97
+gmc,yukon sle,gasoline,60564.0,36362.0,39.96
+nissan,maxima platinum,gasoline,39962.0,23995.0,39.96
+subaru,impreza premium,gasoline,24976.0,15000.0,39.94
+lexus,rx 350l luxury,gasoline,60307.0,36287.0,39.83
+ford,f-350 xl,gasoline,61479.0,37023.0,39.78
+mercedes-benz,gla 250,gasoline,43679.0,26313.0,39.76
+gmc,savana 2500 ls,gasoline,54499.0,32900.0,39.63
+ford,escape titanium,gasoline,36606.0,22101.0,39.62
+kia,sorento lx,gasoline,31386.0,18954.0,39.61
+jeep,cherokee limited,gasoline,36465.0,22151.0,39.25
+bmw,"430 i xdrive",gasoline,50173.0,30553.0,39.1
+volkswagen,atlas 2.0t se w/technology,gasoline,37120.0,22609.0,39.09
+buick,enclave essence,gasoline,44001.0,26805.0,39.08
+jeep,cherokee limited 4x4,gasoline,38494.0,23449.0,39.08
+nissan,titan xd platinum reserve,gasoline,63139.0,38474.0,39.06
+nissan,rogue sl,gasoline,36024.0,22012.0,38.9
+hyundai,sonata limited,gasoline,31825.0,19477.0,38.8
+ram,"1500 tradesman",gasoline,40804.0,24973.0,38.8
+ford,escape sel,gasoline,32719.0,20042.0,38.75
+mercedes-benz,glc 300 base,gasoline,45427.0,27825.0,38.75
+mercedes-benz,amg cla 45 base 4matic,gasoline,62065.0,38058.0,38.68
+ford,escape se,gasoline,29393.0,18031.0,38.66
+mercedes-benz,c-class,gasoline,54659.0,33544.0,38.63
+ram,promaster city tradesman,gasoline,33998.0,20866.0,38.63
+nissan,murano platinum,gasoline,41313.0,25389.0,38.54
+gmc,sierra 1500 base,gasoline,45998.0,28284.0,38.51
+land rover,range rover sport 5.0l supercharged svr,gasoline,127798.0,78597.0,38.5
+audi,q3 2.0t premium,gasoline,37977.0,23389.0,38.41
+audi,s4 3.0t premium plus,gasoline,55367.0,34119.0,38.38
+subaru,crosstrek premium,gasoline,29034.0,17900.0,38.35
+acura,rdx base,gasoline,40070.0,24740.0,38.26
+ram,"2500 tradesman crew cab 4x4 8' box",gasoline,50456.0,31158.0,38.25
+volkswagen,atlas 3.6l sel,gasoline,44905.0,27770.0,38.16
+kia,sorento sx,gasoline,41138.0,25446.0,38.14
+lexus,gx 460 base,gasoline,61438.0,38049.0,38.07
+mercedes-benz,amg glc 43 base 4matic,gasoline,62498.0,38717.0,38.05
+audi,tt rs 2.5t,gasoline,98000.0,60721.0,38.04
+mercedes-benz,glc 300 4matic coupe,gasoline,60460.0,37463.0,38.04
+bmw,"230 i",gasoline,40218.0,24932.0,38.01
+gmc,acadia denali,gasoline,48029.0,29771.0,38.01
+jaguar,f-pace s,gasoline,56090.0,34820.0,37.92
+porsche,panamera base,gasoline,94848.0,58895.0,37.91
+gmc,sierra 1500 sle,gasoline,51120.0,31790.0,37.81
+nissan,frontier pro-4x,gasoline,42462.0,26411.0,37.8
+ford,transit-350 xlt,gasoline,70872.0,44097.0,37.78
+chevrolet,traverse premier,gasoline,47199.0,29374.0,37.77
+nissan,titan pro-4x,gasoline,53941.0,33587.0,37.73
+audi,a5 2.0t prestige,gasoline,50964.0,31742.0,37.72
+infiniti,q50 2.0t luxe,gasoline,37500.0,23360.0,37.71
+bmw,m4 base,gasoline,81796.0,50958.0,37.7
+mitsubishi,outlander sport 2.0 le,gasoline,25030.0,15609.0,37.64
+land rover,range rover sport svr,gasoline,124632.0,77746.0,37.62
+nissan,altima 2.5 sv,gasoline,25963.0,16197.0,37.62
+bmw,x1 xdrive28i,gasoline,40272.0,25152.0,37.54
+lexus,gx 460 luxury,gasoline,65327.0,40813.0,37.53
+volkswagen,atlas 3.6l sel premium,gasoline,48357.0,30229.0,37.49
+porsche,panamera sport turismo 4,gasoline,112223.0,70173.0,37.47
+mercedes-benz,glc 300 base 4matic,gasoline,46900.0,29354.0,37.41
+honda,civic type r touring,gasoline,62043.0,38836.0,37.4
+ford,f-150 limited,gasoline,68326.0,42787.0,37.38
+volvo,xc90 t5 momentum,gasoline,48826.0,30579.0,37.37
+gmc,sierra 1500 slt,gasoline,59818.0,37490.0,37.33
+ford,explorer xlt,gasoline,40559.0,25434.0,37.29
+volkswagen,atlas 3.6l se w/technology,gasoline,40159.0,25184.0,37.29
+mitsubishi,outlander es,gasoline,28342.0,17796.0,37.21
+nissan,murano sl,gasoline,38303.0,24059.0,37.19
+bmw,x1 sdrive28i,gasoline,39013.0,24517.0,37.16
+nissan,sentra s,gasoline,23259.0,14615.0,37.16
+jeep,grand cherokee altitude,gasoline,44126.0,27731.0,37.15
+ram,"2500 tradesman crew cab 4x2 8' box",gasoline,46877.0,29500.0,37.07
+ford,edge titanium,gasoline,36500.0,22984.0,37.03
+mitsubishi,outlander sport,gasoline,24999.0,15762.0,36.95
+toyota,camry hybrid xle,gasoline,35000.0,22080.0,36.91
+lexus,gx 460 gx 460 premium,gasoline,61573.0,38897.0,36.83
+toyota,highlander hybrid xle,gasoline,44154.0,27900.0,36.81
+porsche,panamera 4,gasoline,96387.0,60930.0,36.79
+volkswagen,passat 2.0t r-line,gasoline,28451.0,17993.0,36.76
+tesla,model s,electric,87950.0,55661.0,36.71
+buick,envision preferred,gasoline,33137.0,20998.0,36.63
+chrysler,pacifica limited,gasoline,43961.0,27878.0,36.58
+bmw,m240 i,gasoline,55000.0,34915.0,36.52
+ram,"1500 longhorn",gasoline,59478.0,37763.0,36.51
+acura,tlx technology,gasoline,38784.0,24635.0,36.48
+ram,"1500 rebel",gasoline,55442.0,35237.0,36.44
+nissan,versa s,gasoline,19779.0,12583.0,36.38
+land rover,range rover sport autobiography,gasoline,100605.0,64027.0,36.36
+toyota,tundra 1794,gasoline,65565.0,41743.0,36.33
+nissan,titan sv,gasoline,45042.0,28689.0,36.31
+ford,f-150 xl,gasoline,46265.0,29475.0,36.29
+subaru,legacy limited,gasoline,31078.0,19801.0,36.29
+lexus,rx 450h base,gasoline,63684.0,40578.0,36.28
+nissan,versa 1.6 sv,gasoline,21736.0,13850.0,36.28
+nissan,frontier sv,gasoline,34924.0,22263.0,36.25
+ram,promaster 1500 low roof,gasoline,45443.0,28985.0,36.22
+chrysler,"300 touring",gasoline,32549.0,20762.0,36.21
+chevrolet,malibu premier,gasoline,32220.0,20589.0,36.1
+nissan,sentra sr,gasoline,25432.0,16250.0,36.1
+ford,edge sel,gasoline,34450.0,22018.0,36.09
+ram,"3500 limited",gasoline,83497.0,53399.0,36.05
+bmw,"230 i xdrive",gasoline,44600.0,28549.0,35.99
+hyundai,tucson sel,gasoline,29725.0,19026.0,35.99
+volkswagen,atlas 2.0t sel,gasoline,41368.0,26497.0,35.95
+ford,explorer limited,gasoline,42854.0,27478.0,35.88
+lexus,rx 350 luxury,gasoline,66990.0,42998.0,35.81
+toyota,rav4 limited,gasoline,41064.0,26360.0,35.81
+mercedes-benz,amg gla 45 base 4matic,gasoline,59999.0,38570.0,35.72
+chevrolet,traverse rs,gasoline,42921.0,27603.0,35.69
+chevrolet,silverado 1500 wt,gasoline,39768.0,25587.0,35.66
+nissan,sentra sv,gasoline,23418.0,15076.0,35.62
+lexus,rx 350 f sport,gasoline,59852.0,38568.0,35.56
+nissan,titan xd sv,gasoline,49318.0,31791.0,35.54
+chevrolet,equinox 2lt,gasoline,32531.0,20986.0,35.49
+dodge,durango citadel,gasoline,47577.0,30696.0,35.48
+infiniti,q50 3.0t red sport 400,gasoline,48604.0,31406.0,35.38
+kia,soul,gasoline,21488.0,13898.0,35.32
+toyota,tundra platinum,gasoline,65551.0,42457.0,35.23
+jaguar,f-type r,gasoline,97170.0,62991.0,35.17
+porsche,"911 carrera 4",gasoline,142127.0,92250.0,35.09
+chevrolet,traverse ls,gasoline,34409.0,22365.0,35.0
+toyota,corolla xle,gasoline,28022.0,18228.0,34.95
+nissan,rogue sv,gasoline,30551.0,19875.0,34.94
+lexus,ls 500,gasoline,76988.0,50095.0,34.93
+chevrolet,traverse high country,gasoline,49776.0,32396.0,34.92
+jaguar,e-pace se,gasoline,45849.0,29849.0,34.9
+chevrolet,silverado 1500 ltz,gasoline,58143.0,37865.0,34.88
+mercedes-benz,amg glc 43 4matic coupe,gasoline,69595.0,45361.0,34.82
+mercedes-benz,s-class,gasoline,97991.0,64085.0,34.6
+chrysler,"300 s",gasoline,38101.0,24922.0,34.59
+toyota,avalon limited,gasoline,42762.0,27985.0,34.56
+jeep,cherokee trailhawk,gasoline,36830.0,24107.0,34.55
+ford,transit connect xl,gasoline,33597.0,21995.0,34.53
+mercedes-benz,e-class,gasoline,57723.0,37809.0,34.5
+porsche,"718 boxster gts",gasoline,113881.0,74668.0,34.43
+lexus,rx 350,gasoline,54938.0,36031.0,34.42
+dodge,durango r/t awd,gasoline,53904.0,35368.0,34.39
+lexus,rx 350 350,gasoline,55839.0,36655.0,34.36
+lexus,ls 500 base,gasoline,78166.0,51331.0,34.33
+volkswagen,jetta 1.4t s,gasoline,24166.0,15894.0,34.23
+nissan,altima 2.5 sr,gasoline,27521.0,18109.0,34.2
+gmc,acadia slt,gasoline,41021.0,26998.0,34.18
+toyota,tundra limited,gasoline,59396.0,39100.0,34.17
+porsche,"718 boxster base",gasoline,84998.0,56174.0,33.91
+chevrolet,silverado 2500 lt,gasoline,56669.0,37495.0,33.84
+subaru,brz premium,gasoline,31464.0,20828.0,33.8
+dodge,charger r/t,gasoline,42723.0,28299.0,33.76
+hyundai,sonata sel,gasoline,27618.0,18296.0,33.75
+audi,tts 2.0t quattro,gasoline,60695.0,40226.0,33.72
+hyundai,elantra sel,gasoline,24013.0,15915.0,33.72
+mitsubishi,mirage g4 se,gasoline,19211.0,12744.0,33.66
+audi,rs 3 2.5t,gasoline,77119.0,51165.0,33.65
+nissan,rogue s,gasoline,28896.0,19176.0,33.64
+ford,f-250 lariat,gasoline,71701.0,47600.0,33.61
+mazda,cx-9 grand touring,gasoline,41037.0,27254.0,33.59
+subaru,outback 2.5i limited,gasoline,36811.0,24463.0,33.54
+porsche,"718 cayman base",gasoline,81118.0,53975.0,33.46
+toyota,tundra 1794 editi,gasoline,65858.0,43868.0,33.39
+volkswagen,atlas 2.0t se,gasoline,37230.0,24812.0,33.35
+audi,rs 5 2.9t,gasoline,80135.0,53482.0,33.26
+honda,odyssey touring,gasoline,43669.0,29154.0,33.24
+audi,s3 2.0t premium plus,gasoline,48760.0,32562.0,33.22
+jeep,compass altitude,gasoline,32379.0,21628.0,33.2
+hyundai,tucson limited,gasoline,34333.0,22937.0,33.19
+gmc,sierra 2500 denali,gasoline,73307.0,48999.0,33.16
+mercedes-benz,glc 300 4matic,gasoline,44657.0,29880.0,33.09
+hyundai,elantra se,gasoline,23455.0,15697.0,33.08
+nissan,rogue sport sl,gasoline,31167.0,20871.0,33.03
+chevrolet,equinox premier w/1lz,gasoline,32765.0,21950.0,33.01
+chevrolet,traverse lt cloth,gasoline,36851.0,24687.0,33.01
+ford,transit-350 base,gasoline,57343.0,38444.0,32.96
+toyota,rav4 adventure,gasoline,38040.0,25503.0,32.96
+mitsubishi,outlander sport 2.0 es,gasoline,24096.0,16158.0,32.94
+cadillac,xt5 luxury,gasoline,42205.0,28312.0,32.92
+kia,sportage ex,gasoline,30137.0,20237.0,32.85
+toyota,avalon xle,gasoline,34938.0,23465.0,32.84
+toyota,highlander limited,gasoline,47325.0,31792.0,32.82
+subaru,outback 2.5i premium,gasoline,32614.0,21912.0,32.81
+jeep,renegade altitude,gasoline,29254.0,19659.0,32.8
+chevrolet,colorado wt,gasoline,32079.0,21560.0,32.79
+ram,"2500 tradesman",gasoline,50710.0,34118.0,32.72
+honda,odyssey elite,gasoline,46568.0,31396.0,32.58
+audi,a5 2.0t premium plus,gasoline,45891.0,30979.0,32.49
+buick,enclave premium,gasoline,42008.0,28397.0,32.4
+jeep,renegade latitude,gasoline,28477.0,19266.0,32.35
+hyundai,sonata se,gasoline,24668.0,16694.0,32.33
+ram,"1500 big horn",gasoline,44790.0,30337.0,32.27
+dodge,durango gt,gasoline,41818.0,28337.0,32.24
+honda,pilot elite,gasoline,45863.0,31133.0,32.12
+ram,promaster city base,gasoline,33942.0,23101.0,31.94
+jeep,compass trailhawk 4x4,gasoline,36995.0,25188.0,31.92
+mercedes-benz,amg glc 43,gasoline,64610.0,43991.0,31.91
+tesla,model 3,electric,49796.0,33926.0,31.87
+ford,ecosport titanium,gasoline,27489.0,18742.0,31.82
+gmc,acadia sle,gasoline,36648.0,24991.0,31.81
+acura,ilx,gasoline,30277.0,20655.0,31.78
+ram,"2500 longhorn",gasoline,70836.0,48324.0,31.78
+porsche,"911 carrera",gasoline,133139.0,90922.0,31.71
+toyota,sequoia platinum,gasoline,65939.0,45036.0,31.7
+honda,odyssey ex,gasoline,35596.0,24315.0,31.69
+mazda,cx-9 touring,gasoline,35171.0,24028.0,31.68
+honda,accord ex,gasoline,33868.0,23146.0,31.66
+ford,f-250 xl,gasoline,59916.0,40970.0,31.62
+volkswagen,tiguan 2.0t s,gasoline,27787.0,19021.0,31.55
+mitsubishi,outlander sport se,gasoline,25627.0,17565.0,31.46
+dodge,durango sxt,gasoline,36387.0,24947.0,31.44
+nissan,maxima 3.5 platinum,gasoline,37686.0,25843.0,31.43
+lexus,ls 500 f sport,gasoline,78786.0,54037.0,31.41
+lexus,es 350 base,gasoline,42877.0,29475.0,31.26
+volkswagen,jetta 1.4t se,gasoline,25501.0,17529.0,31.26
+toyota,highlander le,gasoline,37928.0,26083.0,31.23
+hyundai,elantra limited,gasoline,26154.0,17990.0,31.22
+bmw,"430 430i xdrive",gasoline,44995.0,30995.0,31.11
+kia,sportage lx,gasoline,25358.0,17492.0,31.02
+jeep,renegade trailhawk 4x4,gasoline,30241.0,20891.0,30.92
+chevrolet,silverado 1500 custom,gasoline,43213.0,29863.0,30.89
+dodge,durango r/t,gasoline,50277.0,34751.0,30.88
+ford,ecosport ses,gasoline,27589.0,19079.0,30.85
+ram,"1500 sport",gasoline,50363.0,34833.0,30.84
+volkswagen,tiguan 2.0t se,gasoline,30703.0,21233.0,30.84
+ford,escape s,gasoline,25696.0,17775.0,30.83
+gmc,terrain slt,gasoline,32655.0,22620.0,30.73
+toyota,tundra sr5,gasoline,53025.0,36761.0,30.67
+nissan,titan s,gasoline,38529.0,26725.0,30.64
+ram,"2500 power wagon",gasoline,65763.0,45619.0,30.63
+ram,"3500 big horn",gasoline,66100.0,45866.0,30.61
+ford,edge sport,gasoline,37616.0,26109.0,30.59
+jeep,wrangler rubicon,gasoline,55452.0,38506.0,30.56
+toyota,avalon touring,gasoline,42555.0,29574.0,30.5
+toyota,sequoia trd sport,gasoline,59601.0,41454.0,30.45
+honda,pilot ex-l,gasoline,38788.0,26982.0,30.44
+jeep,compass limited,gasoline,32026.0,22278.0,30.44
+ram,"3500 tradesman",gasoline,54019.0,37577.0,30.44
+ram,"1500 lone star",gasoline,40912.0,28475.0,30.4
+jeep,renegade sport,gasoline,26452.0,18434.0,30.31
+ford,ecosport se,gasoline,25477.0,17774.0,30.24
+gmc,terrain denali,gasoline,38549.0,26892.0,30.24
+ram,"2500 big horn crew cab 4x4 6'4' box",gasoline,51404.0,35873.0,30.21
+nissan,rogue sport sv,gasoline,28249.0,19734.0,30.14
+mercedes-benz,glc 300,gasoline,46266.0,32325.0,30.13
+chevrolet,equinox premier,gasoline,32607.0,22787.0,30.12
+jeep,compass sport,gasoline,26792.0,18721.0,30.12
+mazda,cx-9 signature,gasoline,42863.0,29966.0,30.09
+chevrolet,silverado 1500 lt,gasoline,48950.0,34225.0,30.08
+bmw,m4,gasoline,78622.0,54990.0,30.06
+jeep,compass limited 4x4,gasoline,32988.0,23082.0,30.03
+gmc,terrain sle,gasoline,30229.0,21158.0,30.01
+dodge,challenger r/t scat pack,gasoline,55163.0,38628.0,29.97
+acura,tlx base,gasoline,37557.0,26309.0,29.95
+kia,forte lx,gasoline,23025.0,16133.0,29.93
+toyota,highlander xle,gasoline,43096.0,30196.0,29.93
+mitsubishi,eclipse cross sel,gasoline,27636.0,19374.0,29.9
+toyota,tacoma trd,gasoline,50990.0,35780.0,29.83
+chevrolet,traverse lt leather,gasoline,39111.0,27488.0,29.72
+kia,stinger gt2,gasoline,47513.0,33395.0,29.71
+honda,ridgeline rtl-e,gasoline,42054.0,29570.0,29.69
+nissan,altima 2.5 s,gasoline,23931.0,16828.0,29.68
+nissan,murano s,gasoline,31221.0,21967.0,29.64
+dodge,charger gt,gasoline,35463.0,24966.0,29.6
+toyota,camry xle,gasoline,35036.0,24684.0,29.55
+lexus,lc 500 base,gasoline,104189.0,73496.0,29.46
+ford,mustang ecoboost premium,gasoline,34247.0,24160.0,29.45
+bmw,m3 base,gasoline,82842.0,58542.0,29.33
+ford,f-350 xlt,gasoline,62149.0,43949.0,29.28
+toyota,rav4 xle,gasoline,34067.0,24096.0,29.27
+chevrolet,silverado 3500 lt,gasoline,61714.0,43662.0,29.25
+honda,ridgeline rtl,gasoline,39653.0,28057.0,29.24
+jeep,renegade trailhawk,gasoline,30343.0,21493.0,29.17
+honda,accord touring 2.0t,gasoline,37766.0,26760.0,29.14
+hyundai,tucson se,gasoline,26576.0,18832.0,29.14
+honda,odyssey ex-l,gasoline,39277.0,27874.0,29.03
+infiniti,q60 3.0t red sport 400,gasoline,51850.0,36815.0,29.0
+dodge,charger sxt,gasoline,31543.0,22400.0,28.99
+kia,sportage sx turbo,gasoline,32456.0,23059.0,28.95
+jeep,renegade limited,gasoline,29855.0,21216.0,28.94
+mitsubishi,outlander sport le,gasoline,25252.0,17961.0,28.87
+toyota,corolla xse,gasoline,28448.0,20241.0,28.85
+volkswagen,tiguan s,gasoline,26694.0,18999.0,28.83
+chevrolet,equinox 1lt,gasoline,27819.0,19806.0,28.8
+toyota,sequoia sr5,gasoline,53219.0,37891.0,28.8
+jeep,compass trailhawk,gasoline,31645.0,22534.0,28.79
+toyota,"4runner limited 4wd",gasoline,54600.0,38887.0,28.78
+mercedes-benz,metris base,gasoline,43231.0,30829.0,28.69
+mazda,mx-5 miata club,gasoline,34952.0,24949.0,28.62
+bmw,x2 xdrive28i,gasoline,37798.0,26993.0,28.59
+buick,encore preferred,gasoline,25389.0,18153.0,28.5
+bmw,m240 i xdrive,gasoline,53147.0,38011.0,28.48
+chevrolet,trax lt,gasoline,23924.0,17159.0,28.28
+subaru,legacy,gasoline,30739.0,22057.0,28.24
+dodge,charger srt hellcat,gasoline,91999.0,66067.0,28.19
+jeep,compass latitude,gasoline,28344.0,20353.0,28.19
+mitsubishi,mirage g4 es,gasoline,17383.0,12490.0,28.15
+ram,"2500 laramie",gasoline,62581.0,45025.0,28.05
+mitsubishi,eclipse cross le,gasoline,26389.0,18993.0,28.03
+ram,"2500 tradesman crew cab 4x4 6'4' box",gasoline,49115.0,35373.0,27.98
+toyota,sequoia limited,gasoline,60409.0,43506.0,27.98
+mitsubishi,outlander sport es,gasoline,24107.0,17392.0,27.85
+toyota,camry xse,gasoline,35445.0,25577.0,27.84
+lexus,is 300 base,gasoline,40500.0,29241.0,27.8
+mitsubishi,eclipse cross se,gasoline,26669.0,19255.0,27.8
+ram,"2500 laramie crew cab 4x4 6'4' box",gasoline,64864.0,46845.0,27.78
+chevrolet,camaro 1ss,gasoline,47555.0,34356.0,27.76
+subaru,wrx premium,gasoline,33565.0,24265.0,27.71
+toyota,corolla se,gasoline,26548.0,19202.0,27.67
+chevrolet,camaro 2ss,gasoline,53526.0,38747.0,27.61
+subaru,wrx limited,gasoline,36776.0,26649.0,27.54
+toyota,tacoma trd off-ro,gasoline,45225.0,32792.0,27.49
+dodge,challenger r/t plus,gasoline,44110.0,31997.0,27.46
+chevrolet,equinox ls,gasoline,26130.0,18962.0,27.43
+honda,civic ex-l,gasoline,29420.0,21349.0,27.43
+lexus,es 350,gasoline,44429.0,32250.0,27.41
+jeep,wrangler unlimited sport,gasoline,44908.0,32620.0,27.36
+kia,rio lx,gasoline,20091.0,14600.0,27.33
+toyota,c-hr xle,gasoline,29028.0,21126.0,27.22
+mazda,cx-9 sport,gasoline,33062.0,24099.0,27.11
+lexus,rc f base,gasoline,72610.0,52970.0,27.05
+kia,stinger gt1,gasoline,41847.0,30538.0,27.02
+toyota,rav4 le,gasoline,31146.0,22755.0,26.94
+chevrolet,malibu lt,gasoline,24273.0,17738.0,26.92
+toyota,"4runner trd pro",gasoline,61181.0,44752.0,26.85
+honda,odyssey lx,gasoline,33498.0,24512.0,26.83
+jeep,wrangler sport,gasoline,41825.0,30636.0,26.75
+lexus,rx 350 rx 350,gasoline,50800.0,37229.0,26.71
+toyota,"4runner limited",gasoline,52095.0,38185.0,26.7
+jeep,wrangler unlimited sahara,gasoline,50105.0,36734.0,26.69
+chevrolet,malibu 1ls,gasoline,24144.0,17716.0,26.62
+honda,civic touring,gasoline,31018.0,22764.0,26.61
+dodge,durango gt awd,gasoline,40123.0,29450.0,26.6
+tesla,model 3 long range,electric,47267.0,34709.0,26.57
+honda,ridgeline black edition,gasoline,43557.0,31990.0,26.56
+chevrolet,trax ls,gasoline,22403.0,16465.0,26.51
+nissan,rogue sport s,gasoline,25212.0,18554.0,26.41
+honda,accord ex-l,gasoline,32697.0,24090.0,26.32
+dodge,durango r/t rwd,gasoline,44000.0,32425.0,26.31
+chevrolet,equinox lt,gasoline,27299.0,20152.0,26.18
+porsche,"911 carrera s",gasoline,146947.0,108475.0,26.18
+porsche,"718 cayman s",gasoline,89896.0,66393.0,26.14
+tesla,model 3 performance,electric,51662.0,38161.0,26.13
+jeep,wrangler unlimited rubicon,gasoline,56169.0,41527.0,26.07
+honda,ridgeline sport,gasoline,36254.0,26832.0,25.99
+hyundai,accent se,gasoline,20353.0,15066.0,25.98
+lexus,es 350 es 350,gasoline,44316.0,32801.0,25.98
+toyota,camry,gasoline,30809.0,22807.0,25.97
+gmc,sierra 3500 sle,gasoline,61175.0,45297.0,25.96
+nissan,kicks sr,gasoline,26257.0,19443.0,25.95
+chevrolet,camaro 2lt,gasoline,37550.0,27814.0,25.93
+toyota,camry se,gasoline,29834.0,22148.0,25.76
+nissan,titan xd pro-4x,gasoline,51241.0,38058.0,25.73
+lexus,rc 350 base,gasoline,51984.0,38634.0,25.68
+lexus,rx 350 base,gasoline,50950.0,37870.0,25.67
+chevrolet,spark ls,gasoline,18516.0,13770.0,25.63
+chevrolet,silverado 3500 wt,gasoline,57687.0,42936.0,25.57
+ford,transit connect xl w/rear liftgate,gasoline,33300.0,24800.0,25.53
+dodge,challenger sxt,gasoline,32181.0,23967.0,25.52
+honda,accord sport 2.0t,gasoline,34334.0,25588.0,25.47
+honda,cr-v,gasoline,34412.0,25655.0,25.45
+nissan,maxima sv,gasoline,26740.0,19950.0,25.39
+mitsubishi,eclipse cross,gasoline,28343.0,21156.0,25.36
+toyota,camry le,gasoline,27855.0,20809.0,25.3
+bmw,x2 sdrive28i,gasoline,34334.0,25654.0,25.28
+ford,ecosport s,gasoline,22233.0,16615.0,25.27
+audi,tt 2.0t,gasoline,52781.0,39478.0,25.2
+honda,accord sport,gasoline,31561.0,23628.0,25.14
+kia,niro lx,gasoline,25355.0,18997.0,25.08
+toyota,corolla le,gasoline,24025.0,18012.0,25.03
+jeep,wrangler rubicon 4x4,gasoline,51962.0,38967.0,25.01
+gmc,canyon denali,gasoline,42966.0,32237.0,24.97
+gmc,sierra 2500 slt,gasoline,64707.0,48616.0,24.87
+hyundai,kona limited,gasoline,28472.0,21407.0,24.81
+mitsubishi,mirage es,gasoline,17013.0,12801.0,24.76
+honda,cr-v ex-l,gasoline,34557.0,26004.0,24.75
+porsche,"718 cayman",gasoline,82309.0,61995.0,24.68
+toyota,rav4 hybrid limited,gasoline,43765.0,32997.0,24.6
+honda,civic si,gasoline,31970.0,24121.0,24.55
+ram,"3500 laramie",gasoline,69523.0,52560.0,24.4
+kia,rio s,gasoline,20227.0,15309.0,24.31
+mitsubishi,eclipse cross es,gasoline,23736.0,17972.0,24.28
+toyota,"4runner trd off road premium",gasoline,48837.0,36998.0,24.24
+nissan,maxima 3.5 sv,gasoline,26405.0,20025.0,24.16
+nissan,kicks sv,gasoline,24634.0,18687.0,24.14
+gmc,sierra 3500 denali,gasoline,77059.0,58482.0,24.11
+hyundai,santa fe se,gasoline,28595.0,21703.0,24.1
+volkswagen,passat 2.0t se,gasoline,25841.0,19617.0,24.09
+ford,f-350 lariat,gasoline,68249.0,51815.0,24.08
+ford,mustang ecoboost,gasoline,31264.0,23735.0,24.08
+jeep,renegade sport 4x4,gasoline,25649.0,19483.0,24.04
+honda,cr-v touring,gasoline,36580.0,27791.0,24.03
+acura,ilx premium package,gasoline,28785.0,21874.0,24.01
+nissan,leaf s,electric,24533.0,18653.0,23.97
+jeep,wrangler sport s,gasoline,39747.0,30224.0,23.96
+toyota,"4runner sr5 premiu",gasoline,46611.0,35497.0,23.84
+dodge,challenger r/t,gasoline,39926.0,30420.0,23.81
+chevrolet,colorado z71,gasoline,39680.0,30290.0,23.66
+chevrolet,silverado 3500 ltz,gasoline,69148.0,52800.0,23.64
+subaru,wrx base,gasoline,31377.0,23967.0,23.62
+honda,civic sport touring,gasoline,32386.0,24745.0,23.59
+honda,civic lx,gasoline,25860.0,19809.0,23.4
+mazda,mx-5 miata rf grand touring,gasoline,34050.0,26096.0,23.36
+jeep,renegade latitude 4x4,gasoline,27137.0,20801.0,23.35
+honda,civic ex,gasoline,28276.0,21716.0,23.2
+lexus,rc 300,gasoline,48003.0,36887.0,23.16
+toyota,"4runner sr5 premium",gasoline,46059.0,35390.0,23.16
+honda,cr-v ex,gasoline,32182.0,24749.0,23.1
+dodge,challenger gt awd,gasoline,38872.0,30037.0,22.73
+honda,hr-v ex,gasoline,26709.0,20658.0,22.66
+toyota,tacoma trd pro,gasoline,54390.0,42149.0,22.51
+hyundai,kona sel,gasoline,25597.0,19844.0,22.48
+porsche,"911 carrera 4s",gasoline,148498.0,115246.0,22.39
+ram,"2500 limited",gasoline,72086.0,55955.0,22.38
+nissan,leaf sv,electric,25268.0,19616.0,22.37
+honda,accord lx,gasoline,27955.0,21736.0,22.25
+toyota,tacoma limited,gasoline,47163.0,36685.0,22.22
+lexus,rc 300 f sport,gasoline,46249.0,35985.0,22.19
+chevrolet,colorado zr2,gasoline,45707.0,35614.0,22.08
+dodge,durango sxt awd,gasoline,34761.0,27123.0,21.97
+gmc,sierra 2500 sle,gasoline,57594.0,44995.0,21.88
+lexus,is 350 base,gasoline,45173.0,35292.0,21.87
+ram,"2500 big horn",gasoline,51914.0,40644.0,21.71
+toyota,tundra sr,gasoline,41618.0,32635.0,21.58
+chevrolet,spark 2lt,gasoline,21663.0,16998.0,21.53
+volvo,xc60 recharge plug-in hybrid t8 inscription,gasoline,51822.0,40675.0,21.51
+honda,accord hybrid ex-l,gasoline,34997.0,27495.0,21.44
+acura,ilx base,gasoline,27446.0,21566.0,21.42
+honda,hr-v lx,gasoline,25384.0,19983.0,21.28
+dodge,challenger srt hellcat,gasoline,89466.0,70605.0,21.08
+honda,accord hybrid touring,gasoline,36492.0,28852.0,20.94
+toyota,corolla l,gasoline,22670.0,17932.0,20.9
+ford,f-350 lariat super duty,gasoline,70343.0,55663.0,20.87
+chevrolet,colorado lt,gasoline,34275.0,27178.0,20.71
+toyota,tacoma trd off-road,gasoline,44117.0,34989.0,20.69
+ford,mustang gt premium,gasoline,46750.0,37080.0,20.68
+toyota,tacoma sr5,gasoline,38781.0,30808.0,20.56
+chevrolet,camaro 1lt,gasoline,31075.0,24708.0,20.49
+hyundai,kona se,gasoline,22435.0,17882.0,20.29
+toyota,tacoma sr,gasoline,35472.0,28351.0,20.07
+porsche,"718 boxster s",gasoline,87422.0,69955.0,19.98
+chevrolet,camaro 1ls,gasoline,28200.0,22575.0,19.95
+toyota,"4runner trail",gasoline,47379.0,37950.0,19.9
+subaru,impreza limited,gasoline,27508.0,22038.0,19.89
+hyundai,accent sel,gasoline,20639.0,16542.0,19.85
+subaru,brz limited,gasoline,33502.0,27008.0,19.38
+mitsubishi,mirage se,gasoline,17678.0,14254.0,19.37
+lexus,rc 300 base,gasoline,46051.0,37156.0,19.32
+ford,mustang gt,gasoline,43605.0,35192.0,19.29
+chevrolet,camaro zl1,gasoline,75819.0,61276.0,19.18
+toyota,"4runner sr5 4wd",gasoline,43020.0,34921.0,18.83
+jeep,wrangler unlimited sport s,gasoline,40990.0,33363.0,18.61
+toyota,tacoma trd off road,gasoline,44264.0,36062.0,18.53
+toyota,tacoma trd sport,gasoline,43343.0,35376.0,18.38
+mazda,mx-5 miata grand touring,gasoline,32177.0,26267.0,18.37
+toyota,highlander hybrid limited,gasoline,48999.0,39998.0,18.37
+jeep,wrangler sport s 4x4,gasoline,41139.0,33605.0,18.31
+nissan,kicks s,gasoline,22191.0,18156.0,18.18
+toyota,"4runner sr5",gasoline,41246.0,33782.0,18.1
+tesla,model 3 base,electric,41439.0,33995.0,17.96
+honda,civic sport,gasoline,27971.0,22989.0,17.81
+toyota,"4runner trd off road",gasoline,45194.0,37164.0,17.77
+toyota,highlander,gasoline,39577.0,32577.0,17.69
+toyota,tacoma,gasoline,40954.0,33721.0,17.66
+mazda,mx-5 miata sport,gasoline,27990.0,23109.0,17.44
+chevrolet,spark 1lt,gasoline,18418.0,15225.0,17.34
+chevrolet,spark activ,gasoline,19650.0,16245.0,17.33
+subaru,forester,gasoline,27742.0,22981.0,17.16
+acura,ilx premium & a-spec packages,gasoline,30045.0,24962.0,16.92
+honda,cr-v lx,gasoline,28588.0,23824.0,16.66
+chevrolet,colorado 4wd z71,gasoline,37995.0,31750.0,16.44
+dodge,challenger gt,gasoline,35066.0,29434.0,16.06
+hyundai,accent limited,gasoline,22419.0,18952.0,15.46
+lexus,rc 350 rc 350 f sport,gasoline,52924.0,44888.0,15.18
+jeep,wrangler sport 4x4,gasoline,36555.0,31140.0,14.81
+jaguar,xf s,gasoline,42999.0,36935.0,14.1
+toyota,tacoma base,gasoline,42299.0,36407.0,13.93
+subaru,crosstrek limited,gasoline,31989.0,27990.0,12.5
+ford,transit connect xlt,gasoline,34249.0,29977.0,12.47
+lexus,is 350 is 350 f sport,gasoline,44496.0,39122.0,12.08
+mitsubishi,outlander sport s,gasoline,23662.0,20995.0,11.27
+toyota,"4runner trd off-ro",gasoline,47564.0,43789.0,7.94
+chevrolet,silverado 2500 ltz,gasoline,62218.0,58849.0,5.41
