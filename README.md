@@ -33,11 +33,11 @@ To calculate the 5-year depreciation drop, I used Common Table Expressions (CTEs
 ## 📈 Visualizations
 *Here is the dashboard showing the top US models depreciating the fastest over 5 years:*
 
-![Dashboard ICE](https://raw.githubusercontent.com/MPlugatar/us-car-market-depreciation/refs/heads/main/highest%20price%20drop%20visualisation.png)
+![Dashboard ICE](https://raw.githubusercontent.com/MPlugatar/us-car-market-depreciation/refs/heads/main/images/highest%20price%20drop%20visualisation.png)
 
 *Comparison with the EV market:*
 
-![Dashboard EV](https://raw.githubusercontent.com/MPlugatar/us-car-market-depreciation/refs/heads/main/EV%20cars%20top%20price%20drop.png)
+![Dashboard EV](https://raw.githubusercontent.com/MPlugatar/us-car-market-depreciation/refs/heads/main/images/EV%20cars%20top%20price%20drop.png)
 
 ---
 *Check out the full logic in the `analysis.sql` file.*
