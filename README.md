@@ -41,3 +41,29 @@ To calculate the 5-year depreciation drop, I used Common Table Expressions (CTEs
 
 ---
 *Check out the full logic in the `analysis.sql` file.*
+
+## 🔬 V2: Statistical Validation (A/B Testing)
+
+To ensure the observed 9% difference in depreciation isn't due to the disparity in sample sizes (~30,000 ICE vehicles vs ~400 EVs), a Welch's T-test was conducted. 
+
+**Files used for this iteration:**
+* [`v2_extract_for_ab_test.sql`](v2_extract_for_ab_test.sql) - Query to extract raw, unaggregated data for 2018 vehicles.
+* [`stats_analysis.py`](stats_analysis.py) - Python script using `pandas` for filtering and `scipy.stats` for the A/B test.
+
+**Results:**
+* **ICE Average Depreciation:** 34.7%
+* **EV Average Depreciation:** 25.6%
+* **T-statistic:** 22.99
+* **P-value:** < 0.001
+
+**Conclusion:** The difference is statistically significant (p < 0.05). However, a critical analytical limitation was identified during the process.
+
+## ⚠️ Limitations & V3 Roadmap (Stratified Analysis)
+
+While the math proves EV prices drop slower in this specific dataset, there is a strong confounding variable: **Price Segment / Vehicle Class**. 
+EVs from 2018 are predominantly premium/expensive vehicles, whereas the ICE dataset includes thousands of budget-friendly economy cars. The slower depreciation of EVs might be attributed to their premium status rather than their fuel type.
+
+**Next Steps for V3 Iteration:**
+1. Calculate the average MSRP of the EV cohort.
+2. Filter the ICE dataset to only include vehicles within the exact same price tier (Apple-to-Apple comparison).
+3. Re-run the A/B test strictly within this controlled price segment.
